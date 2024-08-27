@@ -19,9 +19,7 @@ class Aluno
     $this->conn = $db;
   }
 
-  public function create() {
-    
-  }
+  public function create() {}
   public function read() {}
   public function update() {}
   public function delete() {}
